@@ -25,7 +25,7 @@ input[type=text], input[type=password] {
 }
 
 input[type=text]:focus, input[type=password]:focus {
-  background-color: #ddd;
+  background-color: rgb(229, 211, 211);
   outline: none;
 }
 
