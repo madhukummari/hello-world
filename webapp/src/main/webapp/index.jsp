@@ -11,6 +11,9 @@
 /* Add padding to containers */
 .container {
   padding: 16px;
+  max-width: 60%;
+  max-height: 50%;
+
 }
 
 /* Full-width input fields */
