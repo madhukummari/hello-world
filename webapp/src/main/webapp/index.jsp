@@ -12,7 +12,7 @@
 .container {
   padding: 16px;
   margin-left: 10px;
-  max-width: 500px;
+  max-width: 501px;
   display: inline-block;
   position: relative;
   left: 50%; 
@@ -26,7 +26,7 @@ input[type=text], input[type=password] {
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
-  background: #f1f1f1;
+  background: #96d1dc;
 }
 
 input[type=text]:focus, input[type=password]:focus {
@@ -42,7 +42,7 @@ hr {
 
 /* Set a style for the submit/register button */
 .registerbtn {
-  background-color: #04AA6D;
+  background-color: #83ecec;
   color: rgb(188, 103, 103);
   padding: 16px 20px;
   margin: 8px 0;
