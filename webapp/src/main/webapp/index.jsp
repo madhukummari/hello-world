@@ -11,6 +11,7 @@
 /* Add padding to containers */
 .container {
   padding: 16px;
+  margin-left: 10px;
 
 }
 
