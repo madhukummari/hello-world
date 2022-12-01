@@ -12,7 +12,7 @@
 .container {
   padding: 16px;
   margin-left: 10px;
-
+  max-width: 500px;
 }
 
 /* Full-width input fields */
