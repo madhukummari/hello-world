@@ -13,6 +13,10 @@
   padding: 16px;
   margin-left: 10px;
   max-width: 500px;
+  display: inline-block;
+  position: relative;
+  left: 50%; 
+  transform: translateX(-50%);
 }
 
 /* Full-width input fields */
