@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <!-- SonarQube Integration -->
-		<sonar.organization>cloudbinary-madhu</sonar.organization>
+		<sonar.organization>cloudbinaryy</sonar.organization>
 		<sonar.projectKey>cloudbinary-madhu</sonar.projectKey>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>8618474b107234fa77928f7f756deedd9f384419</sonar.login>
