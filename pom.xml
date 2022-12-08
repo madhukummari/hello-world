@@ -15,8 +15,8 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <!-- SonarQube Integration -->
-		<sonar.organization>madhukummari</sonar.organization>
-		<sonar.projectKey>cloudwala</sonar.projectKey>
+		<sonar.organization>cloudbinary</sonar.organization>
+		<sonar.projectKey>sonarcloudn</sonar.projectKey>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>8618474b107234fa77928f7f756deedd9f384419</sonar.login>
   </properties>
